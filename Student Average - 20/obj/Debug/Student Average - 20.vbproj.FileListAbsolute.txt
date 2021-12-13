@@ -1,0 +1,5 @@
+C:\Users\ollie\OneDrive - King Edward VI School\School\Year 9\Computer Science\1.3 Programming Trackers\VB.net\Programs\Student Average - 20\Student Average - 20\bin\Debug\Student Average - 20.exe
+C:\Users\ollie\OneDrive - King Edward VI School\School\Year 9\Computer Science\1.3 Programming Trackers\VB.net\Programs\Student Average - 20\Student Average - 20\bin\Debug\Student Average - 20.pdb
+C:\Users\ollie\OneDrive - King Edward VI School\School\Year 9\Computer Science\1.3 Programming Trackers\VB.net\Programs\Student Average - 20\Student Average - 20\obj\Debug\Student Average - 20.vbprojResolveAssemblyReference.cache
+C:\Users\ollie\OneDrive - King Edward VI School\School\Year 9\Computer Science\1.3 Programming Trackers\VB.net\Programs\Student Average - 20\Student Average - 20\obj\Debug\Student Average - 20.exe
+C:\Users\ollie\OneDrive - King Edward VI School\School\Year 9\Computer Science\1.3 Programming Trackers\VB.net\Programs\Student Average - 20\Student Average - 20\obj\Debug\Student Average - 20.pdb
